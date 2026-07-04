@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SlTIKKAbro",
+    "username": "Gay_Reaper_bigfan",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ceylonesports.aternos.me",
-    "port": 49007,
+    "ip": "RaptorXOXO.aternos.me",
+    "port": 28410,
     "version": "",
     "try-creative": false
   },
@@ -30,7 +30,7 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": [
+      "messages": [Reaper is Very gay,
       ]
     },
     "chat-log": true,
